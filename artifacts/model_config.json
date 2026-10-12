@@ -1,0 +1,10 @@
+{
+    "input_features": [
+        "usage",
+        "tenure",
+        "tickets"
+    ],
+    "hidden_size": 8,
+    "dropout_rate": 0.0,
+    "classification_threshold": 0.3
+}
