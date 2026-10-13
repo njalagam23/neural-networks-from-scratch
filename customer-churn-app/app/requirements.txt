@@ -1,0 +1,9 @@
+torch
+numpy
+scikit-learn
+joblib
+fastapi
+uvicorn
+requests
+httpx
+pytest
