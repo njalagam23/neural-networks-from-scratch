@@ -2,3 +2,7 @@ torch
 numpy
 scikit-learn
 joblib
+fastapi
+uvicorn
+httpx
+pytest
